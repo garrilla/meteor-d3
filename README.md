@@ -10,7 +10,7 @@ This is a Meteor Package wrapper for d3js, a JavaScript visualization library fo
 
 See [https://github.com/mbostock/d3](https://github.com/mbostock/d3) for details.
 
-To install the packagefor Meteor, run the following at the command line in the root folder of your project:
+To install the package for Meteor, run the following at the command line in the root folder of your project:
 
     meteor add garrilla:d3
 
