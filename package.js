@@ -2,12 +2,13 @@ Package.describe({
   name: 'garrilla:d3',
   summary: 'A JavaScript visualization library for HTML and SVG. http://d3js.org',
   version: '3.4.12',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/garrilla/d3-meteor'
 });
 
 Package.onUse(function(api) {
   api.versionsFrom('0.9.4');
-  api.addFiles('lib/d3.js');
+  api.addFiles('lib/d3.js','client');
+  api.export('d3');
 });
 
 Package.onTest(function(api) {
