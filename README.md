@@ -17,4 +17,4 @@ To install the package for Meteor, run the following at the command line in the 
 Version
 -------
 
-This version wraps up `3.4.12`
+This version wraps up `3.4.13`
