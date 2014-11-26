@@ -1,20 +1,6 @@
 Garrilla's D3js for Meteor
 ==========================
 
-> It does what it says on the tin
+This package is **DEPRECATED**
 
-Notes
------
-
-This is a Meteor Package wrapper for d3js, a JavaScript visualization library for HTML and SVG. http://d3js.org
-
-See [https://github.com/mbostock/d3](https://github.com/mbostock/d3) for details.
-
-To install the package for Meteor, run the following at the command line in the root folder of your project:
-
-    meteor add garrilla:d3
-
-Version
--------
-
-This version wraps up `3.4.13`
+please use [official d3js package](https://atmospherejs.com/d3js/d3)
