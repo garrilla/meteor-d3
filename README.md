@@ -1,4 +1,4 @@
-Garrilla's D3js for Meteor
+DEPRECATED
 ==========================
 
 This package is **DEPRECATED**
